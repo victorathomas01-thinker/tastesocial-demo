@@ -1,0 +1,8 @@
+{
+  "source_repository": "victorathomas01-thinker/tasteprint",
+  "source_commit": "6f8e7547e653a30e57186a19271d1dae54fadae6",
+  "backend_enabled": false,
+  "real_accounts": false,
+  "storage_namespace": "tasteprint.public-demo.v1:",
+  "built_at": "2026-10-30T03:44:23.665Z"
+}
